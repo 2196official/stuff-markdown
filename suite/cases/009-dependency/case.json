@@ -1,0 +1,4 @@
+{
+  "description": "A dependency names the item this one waits on.",
+  "canonical": true
+}

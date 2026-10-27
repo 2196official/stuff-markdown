@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Buy milk",
+          "notes": "2% if they have it\n\nCheck the date"
+        },
+        {
+          "status": "available",
+          "name": "Eggs"
+        }
+      ]
+    }
+  ]
+}

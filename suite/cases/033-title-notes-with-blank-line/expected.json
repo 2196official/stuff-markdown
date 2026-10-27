@@ -1,0 +1,16 @@
+{
+  "title": {
+    "name": "Title",
+    "notes": "Line one\n\nLine three"
+  },
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "A"
+        }
+      ]
+    }
+  ]
+}

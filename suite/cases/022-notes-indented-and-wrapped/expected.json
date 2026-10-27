@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Indented",
+          "notes": "continues here"
+        },
+        {
+          "status": "available",
+          "name": "Wrapped",
+          "notes": "text that wrapped"
+        },
+        {
+          "status": "available",
+          "name": "Last"
+        }
+      ]
+    }
+  ]
+}

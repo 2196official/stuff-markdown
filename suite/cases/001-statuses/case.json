@@ -1,0 +1,4 @@
+{
+  "description": "Each checkbox reads as its status, and a line without a checkbox is an item with no status, which is how a Space is written.",
+  "canonical": true
+}

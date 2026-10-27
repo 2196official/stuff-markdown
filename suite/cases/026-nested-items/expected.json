@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Parent"
+        },
+        {
+          "status": "available",
+          "name": "Child",
+          "notes": "- a sub-bullet"
+        }
+      ]
+    }
+  ]
+}

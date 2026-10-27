@@ -1,0 +1,14 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Plan a trip",
+          "plan": "someday",
+          "deadline": "2027-06-01"
+        }
+      ]
+    }
+  ]
+}

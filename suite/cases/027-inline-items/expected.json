@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "One"
+        },
+        {
+          "status": "complete",
+          "name": "Two"
+        },
+        {
+          "status": "available",
+          "name": "Three"
+        }
+      ]
+    }
+  ]
+}

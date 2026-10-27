@@ -1,0 +1,27 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Available"
+        },
+        {
+          "status": "complete",
+          "name": "Complete"
+        },
+        {
+          "status": "cancelled",
+          "name": "Cancelled"
+        },
+        {
+          "status": "inProgress",
+          "name": "In progress"
+        },
+        {
+          "name": "A Space"
+        }
+      ]
+    }
+  ]
+}

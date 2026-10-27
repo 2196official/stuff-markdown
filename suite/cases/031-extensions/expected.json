@@ -1,0 +1,16 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Buy milk",
+          "plan": "2026-10-24",
+          "extensions": [
+            "id: 7Kc2"
+          ]
+        }
+      ]
+    }
+  ]
+}

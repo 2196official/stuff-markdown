@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "title": {
+    "name": "🛒 Groceries",
+    "plan": "2026-10-24",
+    "deadline": "2026-10-31",
+    "tags": [
+      "Home"
+    ],
+    "notes": "Weekly shop. Costco on Saturdays"
+  },
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Buy milk",
+          "plan": "2026-10-24 09:00",
+          "deadline": "2026-10-25",
+          "tags": [
+            "Errands",
+            "DeepWork"
+          ],
+          "notes": "2% if they have it\nCheck the date"
+        },
+        {
+          "status": "inProgress",
+          "name": "Compare cereal prices",
+          "plan": "someday"
+        },
+        {
+          "status": "available",
+          "name": "Water the plants",
+          "plan": "2026-10-25",
+          "tags": [
+            "Home"
+          ],
+          "repeat": "repeats every week on Saturday"
+        },
+        {
+          "status": "available",
+          "name": "Renew passport",
+          "plan": "2026-11-12",
+          "repeat": "repeats on 2026-11-12, 2026-11-19 and 2026-11-26"
+        },
+        {
+          "status": "available",
+          "name": "Pick up the cake",
+          "dependency": "Order the cake"
+        },
+        {
+          "status": "complete",
+          "name": "Order the cake"
+        },
+        {
+          "status": "cancelled",
+          "name": "Buy flowers"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Party supplies",
+        "plan": "2026-10-30",
+        "tags": [
+          "Party"
+        ],
+        "notes": "For Saturday's party"
+      },
+      "items": [
+        {
+          "status": "available",
+          "name": "Balloons",
+          "deadline": "2026-10-31"
+        },
+        {
+          "status": "available",
+          "name": "Candles"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Buy milk",
+          "dependency": "Go to the store",
+          "plan": "2026-10-24 09:00",
+          "deadline": "2026-10-25",
+          "tags": [
+            "Errands",
+            "DeepWork"
+          ],
+          "repeat": "repeats every week on Saturday"
+        }
+      ]
+    }
+  ]
+}

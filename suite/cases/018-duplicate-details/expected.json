@@ -1,0 +1,21 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Move *Plan: 2026-10-24*",
+          "plan": "2026-10-25"
+        },
+        {
+          "status": "available",
+          "name": "Sort",
+          "tags": [
+            "Work",
+            "Home"
+          ]
+        }
+      ]
+    }
+  ]
+}

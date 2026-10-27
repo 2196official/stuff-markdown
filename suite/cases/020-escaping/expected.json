@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "#1 priority"
+        },
+        {
+          "status": "available",
+          "name": "Fix issue #12"
+        },
+        {
+          "status": "available",
+          "name": "5 * 3 *Plan: 2026-10-24*"
+        },
+        {
+          "status": "available",
+          "name": "Explain (repeats every day)"
+        },
+        {
+          "status": "available",
+          "name": "Quote (dependent on \"Me\")"
+        },
+        {
+          "status": "available",
+          "name": "Folder \\#Archive"
+        },
+        {
+          "status": "available",
+          "name": "Show <!-- comment -->"
+        },
+        {
+          "status": "available",
+          "name": "Use \\n in strings"
+        }
+      ]
+    }
+  ]
+}

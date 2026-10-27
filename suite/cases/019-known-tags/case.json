@@ -1,0 +1,7 @@
+{
+  "description": "When an app limits Tags to the ones it has, matching ignores spaces and capitalization, and an unknown `#Tag` stays at the end of the name.",
+  "knownTags": [
+    "Errands",
+    "Deep Work"
+  ]
+}

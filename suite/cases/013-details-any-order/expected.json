@@ -1,0 +1,18 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Pay rent",
+          "plan": "2026-10-30",
+          "deadline": "2026-11-01",
+          "tags": [
+            "Home",
+            "Bills"
+          ]
+        }
+      ]
+    }
+  ]
+}

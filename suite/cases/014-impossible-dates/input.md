@@ -1,0 +1,5 @@
+- [ ] Party *Plan: 2026-02-30*
+- [ ] Call *Plan: 2026-10-24 25:00*
+- [ ] Fix **Deadline: 26-10-24**
+- [ ] Leap day *Plan: 2028-02-29*
+- [ ] Not a leap day *Plan: 2100-02-29*

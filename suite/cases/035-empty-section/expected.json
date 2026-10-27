@@ -1,0 +1,24 @@
+{
+  "title": {
+    "name": "Project"
+  },
+  "sections": [
+    {
+      "header": {
+        "name": "Empty heading"
+      },
+      "items": []
+    },
+    {
+      "header": {
+        "name": "Next"
+      },
+      "items": [
+        {
+          "status": "available",
+          "name": "Task"
+        }
+      ]
+    }
+  ]
+}

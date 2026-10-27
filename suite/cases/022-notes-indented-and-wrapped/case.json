@@ -1,0 +1,3 @@
+{
+  "description": "Under an item, an indented line is a note, and so is unindented text that isn't Markdown structure (a hard-wrapped item). Structure or a blank line ends the notes."
+}

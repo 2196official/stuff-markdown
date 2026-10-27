@@ -1,0 +1,13 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Reply",
+          "dependency": "Read \"Hello\" email"
+        }
+      ]
+    }
+  ]
+}

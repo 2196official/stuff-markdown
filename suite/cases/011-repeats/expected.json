@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Water the plants",
+          "repeat": "repeats every week on Saturday"
+        },
+        {
+          "status": "available",
+          "name": "Renew passport",
+          "repeat": "repeats on 2026-11-12, 2026-11-19 and 2026-11-26"
+        },
+        {
+          "status": "available",
+          "name": "Change the filter",
+          "repeat": "repeats 3 months after each one is completed"
+        },
+        {
+          "status": "available",
+          "name": "Stretch",
+          "repeat": "repeats a day after each one is completed"
+        }
+      ]
+    }
+  ]
+}

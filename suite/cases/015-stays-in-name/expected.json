@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Call mom (urgent)"
+        },
+        {
+          "status": "available",
+          "name": "Gym (repeats weekly)"
+        },
+        {
+          "status": "available",
+          "name": "Read *this*"
+        },
+        {
+          "status": "available",
+          "name": "Book flights *Plan:2026-10-24*"
+        },
+        {
+          "status": "available",
+          "name": "Buy C#"
+        }
+      ]
+    }
+  ]
+}

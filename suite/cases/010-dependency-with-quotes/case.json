@@ -1,0 +1,4 @@
+{
+  "description": "A dependency's name can contain quotes; the last `\")` ends it.",
+  "canonical": true
+}

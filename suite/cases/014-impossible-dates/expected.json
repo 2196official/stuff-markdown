@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Party *Plan: 2026-02-30*"
+        },
+        {
+          "status": "available",
+          "name": "Call *Plan: 2026-10-24 25:00*"
+        },
+        {
+          "status": "available",
+          "name": "Fix **Deadline: 26-10-24**"
+        },
+        {
+          "status": "available",
+          "name": "Leap day",
+          "plan": "2028-02-29"
+        },
+        {
+          "status": "available",
+          "name": "Not a leap day *Plan: 2100-02-29*"
+        }
+      ]
+    }
+  ]
+}

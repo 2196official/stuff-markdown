@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Buy milk #Unknown",
+          "tags": [
+            "errands",
+            "deepwork"
+          ],
+          "repeat": "repeats every day"
+        }
+      ]
+    }
+  ]
+}

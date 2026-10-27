@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "Before"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Not the title"
+      },
+      "items": [
+        {
+          "status": "available",
+          "name": "A"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Deeper"
+      },
+      "items": [
+        {
+          "status": "available",
+          "name": "B"
+        }
+      ]
+    }
+  ]
+}

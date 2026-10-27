@@ -1,0 +1,5 @@
+- [ ] Call mom (urgent)
+- [ ] Gym (repeats weekly)
+- [ ] Read *this*
+- [ ] Book flights *Plan:2026-10-24*
+- [ ] Buy C#

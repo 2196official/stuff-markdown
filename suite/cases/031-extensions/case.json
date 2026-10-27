@@ -1,0 +1,4 @@
+{
+  "description": "A trailing `<!-- … -->` comment is an extension: a detail from a later version. Readers keep its contents rather than putting it in the name.",
+  "canonical": true
+}

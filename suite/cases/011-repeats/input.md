@@ -1,0 +1,4 @@
+- [ ] Water the plants (repeats every week on Saturday)
+- [ ] Renew passport (repeats on 2026-11-12, 2026-11-19 and 2026-11-26)
+- [ ] Change the filter (repeats 3 months after each one is completed)
+- [ ] Stretch (repeats a day after each one is completed)

@@ -1,0 +1,1 @@
+- [ ] Buy milk (dependent on "Go to the store") *Plan: 2026-10-24 09:00* **Deadline: 2026-10-25** #Errands #DeepWork (repeats every week on Saturday)

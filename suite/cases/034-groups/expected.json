@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "A"
+        },
+        {
+          "status": "available",
+          "name": "B"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "C"
+        }
+      ]
+    },
+    {
+      "header": {
+        "name": "Later"
+      },
+      "items": [
+        {
+          "status": "available",
+          "name": "D"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "status": "available",
+          "name": "E"
+        }
+      ]
+    }
+  ]
+}

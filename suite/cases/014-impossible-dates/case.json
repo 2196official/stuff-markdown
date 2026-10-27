@@ -1,0 +1,3 @@
+{
+  "description": "Only real days and times are read. Anything else stays in the name, and reading stops there."
+}

@@ -1,0 +1,4 @@
+{
+  "description": "Notes are quoted and indented two spaces under their item. A blank note line is `  >` on its own.",
+  "canonical": true
+}

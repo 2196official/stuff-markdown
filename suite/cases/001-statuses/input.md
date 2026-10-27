@@ -1,0 +1,5 @@
+- [ ] Available
+- [x] Complete
+- [/] Cancelled
+- [~] In progress
+- A Space
