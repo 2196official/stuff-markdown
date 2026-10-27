@@ -35,18 +35,20 @@ public enum StuffMarkdown {
 
 
 // MARK: - ParseOptions
-/// Choices an app makes about what it can import while parsing.
-public struct ParseOptions: Sendable {
-    /// The Tags the app has, or `nil` to read every `#Tag`. When set, a `#Tag` matching none of them (by `StuffMarkdown.tagKey(_:)`) stays at the end of the name.
-    public var knownTags: [String]?
-
-    /// Reads a date in a format from before Stuff Markdown, such as the region-formatted `10/24/26` older Stuff exports wrote, when it isn't `YYYY-MM-DD`.
-    public var readsLegacyDay: (@Sendable (String) -> Day?)?
-
-
-    /// Creates parse options.
-    public init(knownTags: [String]? = nil, readsLegacyDay: (@Sendable (String) -> Day?)? = nil) {
-        self.knownTags = knownTags
-        self.readsLegacyDay = readsLegacyDay
+extension StuffMarkdown {
+    /// Choices an app makes about what it can import while parsing.
+    public struct ParseOptions: Sendable {
+        /// The Tags the app has, or `nil` to read every `#Tag`. When set, a `#Tag` matching none of them (by `StuffMarkdown.tagKey(_:)`) stays at the end of the name.
+        public var knownTags: [String]?
+    
+        /// Reads a date in a format from before Stuff Markdown, such as the region-formatted `10/24/26` older Stuff exports wrote, when it isn't `YYYY-MM-DD`.
+        public var readsLegacyDay: (@Sendable (String) -> Day?)?
+    
+    
+        /// Creates parse options.
+        public init(knownTags: [String]? = nil, readsLegacyDay: (@Sendable (String) -> Day?)? = nil) {
+            self.knownTags = knownTags
+            self.readsLegacyDay = readsLegacyDay
+        }
     }
 }

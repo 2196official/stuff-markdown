@@ -61,7 +61,7 @@ struct SharedSuiteTests {
     @Test(arguments: cases)
     func parsesToExpectedDocument(_ suiteCase: SuiteCase) throws {
         let (input, settings, expected) = try load(suiteCase)
-        let document = StuffMarkdown.parse(input, options: ParseOptions(knownTags: settings.knownTags))
+        let document = StuffMarkdown.parse(input, options: StuffMarkdown.ParseOptions(knownTags: settings.knownTags))
         #expect(document == expected, "\(settings.description)")
     }
 
@@ -88,10 +88,10 @@ struct SharedSuiteTests {
 
 
     /// Reads a case's input, settings, and expected document.
-    private func load(_ suiteCase: SuiteCase) throws -> (String, CaseSettings, Document) {
+    private func load(_ suiteCase: SuiteCase) throws -> (String, CaseSettings, StuffMarkdown.Document) {
         let input = try String(contentsOf: suiteCase.folder.appending(path: "input.md"), encoding: .utf8)
         let settings = try JSONDecoder().decode(CaseSettings.self, from: Data(contentsOf: suiteCase.folder.appending(path: "case.json")))
-        let expected = try JSONDecoder().decode(Document.self, from: Data(contentsOf: suiteCase.folder.appending(path: "expected.json")))
+        let expected = try JSONDecoder().decode(StuffMarkdown.Document.self, from: Data(contentsOf: suiteCase.folder.appending(path: "expected.json")))
         return (input, settings, expected)
     }
 }

@@ -33,7 +33,7 @@ for item in document.items where item.status != nil {
 let markdown = StuffMarkdown.write(document)
 ```
 
-Pass `ParseOptions(knownTags:)` to read only the Tags your app has; any other `#Tag` stays in the name. Run the suite with `swift test`.
+Pass `StuffMarkdown.ParseOptions(knownTags:)` to read only the Tags your app has; any other `#Tag` stays in the name. Run the suite with `swift test`.
 
 ## JavaScript and TypeScript
 
