@@ -7,7 +7,7 @@
 
 import Foundation
 
-/// Reads and writes Stuff Markdown, the plain-text format for Tasks specified in SPEC.md and at themitycompany.com/docs/stuff-markdown.
+/// Reads and writes Stuff Markdown, the plain-text format for Tasks specified in SPEC.md and at https://www.themitycompany.com/docs/stuff-markdown.
 ///
 /// `parse(_:options:)` turns any text into a `Document`, and `write(_:)` turns a `Document` back into Stuff Markdown. Both follow the shared test suite in this package's `suite/cases` folder, which every Stuff Markdown implementation checks against.
 public enum StuffMarkdown {

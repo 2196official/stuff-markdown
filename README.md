@@ -1,6 +1,6 @@
 # Stuff Markdown
 
-Stuff Markdown is the plain-text format [Stuff](https://themitycompany.com/stuff) uses to export, copy, paste, and import Tasks. It's ordinary Markdown with GitHub-style task lists, plus a few details written the same way everywhere:
+Stuff Markdown is the plain-text format [Stuff](https://www.themitycompany.com) uses to export, copy, paste, and import Tasks. It's ordinary Markdown with GitHub-style task lists, plus a few details written the same way everywhere:
 
 ```markdown
 - [ ] Buy milk *Plan: 2026-10-24 09:00* **Deadline: 2026-10-25** #Errands

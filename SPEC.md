@@ -2,7 +2,7 @@
 
 **Version 1** · [Changelog](CHANGELOG.md) · Licensed [CC BY 4.0](LICENSE-SPEC)
 
-Stuff Markdown is the plain-text format [Stuff](https://themitycompany.com/stuff) uses when you export or copy Tasks, and the format it reads back when you paste or drop them in. It's regular Markdown, so an export looks right in Obsidian, GitHub, Bear, or anywhere else Markdown shows up, and it carries a Task's Plan, Deadline, Tags, Notes, and more in a way any app can read.
+Stuff Markdown is the plain-text format [Stuff](https://www.themitycompany.com) uses when you export or copy Tasks, and the format it reads back when you paste or drop them in. It's regular Markdown, so an export looks right in Obsidian, GitHub, Bear, or anywhere else Markdown shows up, and it carries a Task's Plan, Deadline, Tags, Notes, and more in a way any app can read.
 
 This is the full specification. The [shared test suite](suite/README.md) turns every rule here into an example with its expected result, so any implementation can check itself against it.
 
