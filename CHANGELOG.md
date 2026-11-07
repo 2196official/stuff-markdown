@@ -2,7 +2,7 @@
 
 Changes to the Stuff Markdown specification and to the packages in this repository. The spec's version is the number in the version marker; the packages use their own semantic versions.
 
-## Unreleased
+## October 31, 2026
 
 ### Specification 1
 

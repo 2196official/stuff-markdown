@@ -133,4 +133,4 @@ The version marker names the version a document was written in. A new version nu
 
 | Version | Released | Changes |
 | --- | --- | --- |
-| 1 | Coming with Stuff 2.4.6 | The first version: English labels, ISO dates, repeats, quoted Notes, extensions, and the version marker. |
+| 1 | October 31, 2026 (Stuff 2.4.6) | The first version: English labels, ISO dates, repeats, quoted Notes, extensions, and the version marker. |
